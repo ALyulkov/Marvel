@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "title": "#1 spiderman",
+        "thumbnail": {
+            "path": "src\\assets\\comics\\spiderman\\1"
+        },
+        "description": "the first comics about spiderman. the first comics about spiderman. the first comics about spiderman.the first comics about spiderman.the first comics about spiderman",
+        "characters": {
+            "items": [
+                {
+                    "name": "spiderman",
+                    "resourceURI": "/8"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "title": "#2 spiderman",
+        "thumbnail": {
+            "path": "src\\assets\\comics\\spiderman\\2"
+        },
+        "description": "the second comics about spiderman",
+        "characters": {
+            "items": [
+                {
+                    "name": "spiderman",
+                    "resourceURI": "/8"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "title": "#3 spiderman",
+        "thumbnail": {
+            "path": "src\\assets\\comics\\spiderman\\3"
+        },
+        "description": "the third comics about spiderman",
+        "characters": {
+            "items": [
+                {
+                    "name": "spiderman",
+                    "resourceURI": "/8"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "title": "#1 Hulk",
+        "thumbnail": {
+            "path": "src\\assets\\comics\\hulk\\1"
+        },
+        "description": "the first comics about Hulk",
+        "characters": {
+            "items": [
+                {
+                    "name": "hulk",
+                    "resourceURI": "/5"
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "title": "#2 Hulk",
+        "thumbnail": {
+            "path": "src\\assets\\comics\\hulk\\2"
+        },
+        "description": "the second comics about Hulk",
+        "characters": {
+            "items": [
+                {
+                    "name": "hulk",
+                    "resourceURI": "/5"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "title": "#3 Hulk",
+        "thumbnail": {
+            "path": "src\\assets\\comics\\hulk\\3"
+        },
+        "description": "the first comics about Hulk",
+        "characters": {
+            "items": [
+                {
+                    "name": "hulk",
+                    "resourceURI": "/5"
+                }
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "title": "#1 Guardian of Galaxy",
+        "thumbnail": {
+            "path": "src\\assets\\comics\\Guardians of the Galaxy\\1"
+        },
+        "description": "the first comics about Guardian of Galaxy.",
+        "characters": {
+            "items": [
+                {
+                    "name": "bogomol",
+                    "resourceURI": "/1"
+                },
+                {
+                    "name": "drax",
+                    "resourceURI": "/2"
+                },
+                {
+                    "name": "gamora",
+                    "resourceURI": "/3"
+                },
+                {
+                    "name": "groot",
+                    "resourceURI": "/4"
+                },
+                {
+                    "name": "rocket",
+                    "resourceURI": "/5"
+                },
+                {
+                    "name": "starlord",
+                    "resourceURI": "/6"
+                }
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "title": "#2 Guardian of Galaxy",
+        "thumbnail": {
+            "path": "src\\assets\\comics\\Guardians of the Galaxy\\2"
+        },
+        "description": "the second comics about Guardian of Galaxy.",
+        "characters": {
+            "items": [
+                {
+                    "name": "bogomol",
+                    "resourceURI": "/1"
+                },
+                {
+                    "name": "drax",
+                    "resourceURI": "/2"
+                },
+                {
+                    "name": "gamora",
+                    "resourceURI": "/3"
+                },
+                {
+                    "name": "groot",
+                    "resourceURI": "/4"
+                },
+                {
+                    "name": "rocket",
+                    "resourceURI": "/5"
+                },
+                {
+                    "name": "starlord",
+                    "resourceURI": "/6"
+                }
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "title": "#3 Guardian of Galaxy",
+        "thumbnail": {
+            "path": "src\\assets\\comics\\Guardians of the Galaxy\\3"
+        },
+        "description": "the third comics about Guardian of Galaxy.",
+        "characters": {
+            "items": [
+                {
+                    "name": "bogomol",
+                    "resourceURI": "/1"
+                },
+                {
+                    "name": "drax",
+                    "resourceURI": "/2"
+                },
+                {
+                    "name": "gamora",
+                    "resourceURI": "/3"
+                },
+                {
+                    "name": "groot",
+                    "resourceURI": "/4"
+                },
+                {
+                    "name": "rocket",
+                    "resourceURI": "/5"
+                },
+                {
+                    "name": "starlord",
+                    "resourceURI": "/6"
+                }
+            ]
+        }
+    }
+]

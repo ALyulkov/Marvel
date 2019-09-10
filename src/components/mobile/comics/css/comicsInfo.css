@@ -1,0 +1,12 @@
+.MobComicsInfo {
+    width: 100%;
+    height: 100%;
+    background: yellow;
+    padding: 50px 10px 0 10px;
+    overflow-y: auto;
+    text-align: justify;
+  }
+  .MobComicsInfo__imd-block {
+    width: 100%;
+    text-align: center;
+  }

@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "name": "bogomol",
+      "thumbnail": {"path": "src/assets/heroes/bogomol"
+        },
+      "description": "Впервые появилась в комиксе под названием Мстители №112 (июнь 1973 год), создателями персонажа являются писатель Стив Энглхарт и художник Дон Хек. Богомол является бывшим участником команды Мстителей.",
+      "comics": { "items": [
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/7"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/8"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/9"
+                }
+            ]
+        }
+    },
+    {
+      "id": 2,
+      "name": "drax",
+      "thumbnail": {"path": "src/assets/heroes/drax"
+        },
+      "img": "src/assets/heroes/drax.jpg",
+      "description": "Дракс — первоклассный боец, обладающий огромной силой и яростью в бою. Грамотно используя свои боевые навыки, Дракс может справиться с любым противником и преодолеть любое препятствие.",
+       "comics": { "items": [
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/7"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/8"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/9"
+                }
+            ]
+        }
+    },
+    {
+      "id": 3,
+      "name": "gamora",
+      "thumbnail": {"path": "src/assets/heroes/gamora"
+        },
+      "img": "src/assets/heroes/gamora.jpg",
+      "description": "Гамора — настоящий эксперт в контактном бою, прекрасная гимнастка, владеющая всеми видами оружия. Как представительница расы Зен-Хобери, Гамора намного сильнее и выносливее человека.",
+       "comics": { "items": [
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/7"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/8"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/9"
+                }
+            ]
+        }
+    },
+    {
+      "id": 4,
+      "name": "groot",
+      "thumbnail": {"path": "src/assets/heroes/groot"
+        },
+      "img": "src/assets/heroes/groot.jpg",
+      "description": "Похожий на дерево пришелец Грут обладает невероятной физической силой, добрым сердцем и одной-единственной фразой в лексиконе.",
+       "comics": { "items": [
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/7"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/8"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/9"
+                }
+            ]
+        }
+    },
+    {
+      "id": 5,
+      "name": "hulk",
+      "thumbnail": {"path": "src/assets/heroes/hulk"
+        },
+      "description": "Благодаря своей исключительной реакции, координации и меткости Соколиный Глаз — лучший стрелок и лучник, известный человечеству.",
+       "comics": { "items": [
+                { "name": "hulk #1", "resourceURI": "/4"
+                },
+                { "name": "hulk #2", "resourceURI": "/5"
+                },
+                { "name": "hulk #3", "resourceURI": "/6"
+                }
+            ]
+        }
+    },
+    {
+      "id": 6,
+      "name": "rocket",
+      "thumbnail": {"path": "src/assets/heroes/rocket"
+        },
+      "img": "src/assets/heroes/rocket.jpg",
+      "description": "умный, антропоморфный енот, который является экспертом в боях, а также является снайпером и мастер тактики.",
+       "comics": { "items": [
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/7"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/8"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/9"
+                }
+            ]
+        }
+    },
+    {
+      "id": 7,
+      "name": "starlord",
+      "thumbnail": {"path": "src/assets/heroes/starlord"
+        },
+      "img": "src/assets/heroes/starlord.jpg",
+      "description": "Сын женщены человеческого происхождения и инопланетного отца, Питер принимает на себя мантию Стар-Лорда, межпланетного полицейского.",
+       "comics": { "items": [
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/7"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/8"
+                },
+                { "name": "Guardian of Galaxy #1", "resourceURI": "/9"
+                }
+            ]
+        }
+    },
+    {
+      "id": 8,
+      "name": "spiderman",
+      "thumbnail": {"path": "src/assets/heroes/spiderman"
+        },
+      "description": "Вижен был создан злым роботом Ультроном для борьбы со своими создателями Хэнком Пимом и Джанет ван Дайн, являющихся членами Мстителей.",
+       "comics": { "items": [
+                { "name": "Spiderman #1", "resourceURI": "/1"
+                },
+                { "name": "Spiderman #2", "resourceURI": "/2"
+                },
+                { "name": "Spiderman #3", "resourceURI": "/3"
+                }
+            ]
+        }
+    }
+]
